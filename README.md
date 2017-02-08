@@ -10,4 +10,6 @@
 08.02.2017
 Biologists: Marina Tevdadze, Maia Mikeladze.
 IT experts: Iakob Javashvili, Tato Oikashvili.
+
+Added virtual objects and flow chart.
 ###################################################
